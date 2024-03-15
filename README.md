@@ -1,5 +1,5 @@
 
-# Getting Started with Create React App
+  # REACT E-COMMERCE TAILWIND FAKE API
 <h3>
   This simple shopping cart prototype shows how React with Tailwind, React hooks and React Context can be used to build a friendly user experience with instant visual updates and scaleable code in e commerce applications.
 
