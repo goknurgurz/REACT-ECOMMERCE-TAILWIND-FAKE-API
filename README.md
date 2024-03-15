@@ -1,4 +1,24 @@
+
 # Getting Started with Create React App
+<h3>
+  This simple shopping cart prototype shows how React with Tailwind, React hooks and React Context can be used to build a friendly user experience with instant visual updates and scaleable code in e commerce applications.
+
+
+📍Used Technologies:
+-Html, Css, JavaScript
+-React
+-FAKE API
+
+
+📍Features and added:
+-Add and remove products from the floating cart using Fake Api
+-Styling web apps with TailwindCSS
+-Using React Hooks (useState, useEffect)
+-Working with Tables in React
+-Implementing a Shopping Cart
+</h3>
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
